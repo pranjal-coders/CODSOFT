@@ -1,10 +1,7 @@
-LEVEL 1 TASK 3
+LEVEL 1
 
 **Calculator**
 
-To create a basic calculator using CSS, HTML, and JavaScript, you'll need to implement an
-interactive interface with buttons for addition, subtraction, multiplication, and division
-operations. The calculator should have a display screen to show user input and results. Utilize
-CSS grid system for button alignments. Use event listeners, if-else statements, operators, and
-loops to handle user input and perform calculations. This project requires some skill but can be
-done with basic knowledge of these technologies..
+
+
+To be honest I am actually not much good at using GitHub so I can't create a folder in the repository to hold all the different task files and if I just upload them like this it won't make any sense as all will be named almost same and will cause you trouble in running so that's why I am gonna Make each task into one single HTML file with css and js in STYLE and SCRIPT tags.
